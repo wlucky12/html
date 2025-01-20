@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+a:link{font-size: 10pt; color: purple ;text-decoration:none}
+a:hover { font-size: 12pt; color: blue;text-decoration:underline }
+a:active  { font-size: 12pt; color:darkblue }
+
+table {
+    margin: 200px auto;
+    border-collapse: collapse;
+}
+
+table td {
+    border: 1px solid black;
+}
+
+h1{
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}

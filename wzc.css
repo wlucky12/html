@@ -1,6 +1,0 @@
-@charset "utf-8";
-/* CSS Document */
-a:link{font-size: 10pt; color: purple ;text-decoration:none}
-a:hover { font-size: 12pt; color: blue;text-decoration:underline }
-a:active  { font-size: 12pt; color:darkblue }
-
